@@ -2,7 +2,7 @@
 set -e
 
 # Configuration - add or remove versions as needed
-VERSIONS=("9.0.4" "9.0.3" "8.18.4" "8.18.3")
+VERSIONS=("9.1.1" "8.19.1")
 BASE_URL="https://download.elastic.co/cloud-enterprise/versions"
 
 # Check if download tool is available
